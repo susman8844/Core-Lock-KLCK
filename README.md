@@ -1,6 +1,15 @@
 > [!IMPORTANT]
-> **temporarily Zzz, you know (la vida things)... at least I fixed some things on this page**
+> **This is an Forked version of MALSP that i created the first version will relase soon**
 
+# Whats the differnce between my version and the offical MALSP?
+ Whats added?
+ ### New on screen settings options like Clock Customzations 
+ ### ReNewed mini music player
+ ## Weather in "At a glance"
+
+ Whats removed?
+ ### One Ui theme
+ 
 # Modern Android Lock Screen Project
 Malsp is a preset for KLCK that delivers the Google Pixel "Material You" experience to the lock screen of devices with OEM and older Android versions, offering enhanced customization options.
 
@@ -63,10 +72,6 @@ I worked on perfecting details like animations and how the lock screen reacts to
 - "Clear all" button for notifications.
 
 - Expanded Media Control.
-
-- Weather in "At a glance".
-
-- More options for On-Screen settings.
 
 - AOD style notifications.
 
